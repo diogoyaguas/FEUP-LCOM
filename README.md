@@ -9,7 +9,6 @@ Diogo Filipe da Silva Yaguas<br>
 Maria João Senra Viana
 * Student Number: 201604751
 * E-Mail: up201604751@fe.up.pt
-
 # Folder Meaning
 
 - Lab2: Timer
